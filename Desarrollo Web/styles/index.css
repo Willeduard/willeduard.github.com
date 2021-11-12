@@ -1,0 +1,70 @@
+body{
+   font-family: Arial, Helvetica, sans-serif;
+}
+header {
+   background-color: rgb(199, 201, 129);
+   text-align: center;
+}
+.nombre{
+   display: inline-block;
+   width: 400px;
+   color: white;
+   font-weight: 700;
+   padding: 16px;
+}
+.profesion{
+   display: inline-block;
+   width: 400px;
+   color: white;
+   font-weight: 700;
+   padding: 16px;
+}
+.descripcion{
+   background-color: rgb(138, 126, 74);
+   color: black;
+   text-align: center;
+   padding: 10px;
+   margin-top:70 ;
+}
+.seccion1{
+   width: 960px;
+   margin: auto; 
+}
+h3{
+   font-size: 36px;
+   font-weight: 700;
+
+}
+dt{
+   font-size: 22px;
+   text-transform: uppercase;
+   margin-top: auto;
+   margin-bottom: 5px;   
+}
+dd{
+   margin-bottom: 20px;
+}
+ul{
+   margin-top: 12px;
+   padding: 0;
+}
+li{
+   margin-top: 16px;
+}
+img{
+   width: 300px;
+}
+.education {
+   display: inline-block;
+   margin-top: 20px;
+   width: 68%;
+   vertical-align: top;
+}
+.perfil {
+   width: 30%;
+   display: inline-block;
+   margin-top: 20px;
+}
+
+
+
